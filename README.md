@@ -2,7 +2,7 @@ To run this notebook, I mounted on [Google Colab] using my Google Drive account.
 
 Libraries:
 - google.colab
-- Open CV2(Python Imaging Library)
+- Open CV2 (Python Imaging Library)
 - Any required libraries (numpy)
 
 Setup Instructions
@@ -31,3 +31,5 @@ Setup Instructions
 
 
 Note: For the fourth function in the colab file I wasn't able to get a video to run. My code is still written. 
+
+Dynamic Video: https://youtu.be/YH20ZNDdGfQ
