@@ -1,10 +1,9 @@
-To run this notebook, I mounted on [Google Colab]using my Google Drive account. The notebook is designed to be executed in the Google Colab environment by using Python libraries.
+To run this notebook, I mounted on [Google Colab] using my Google Drive account. The notebook is designed to be executed in the Google Colab environment by using Python libraries.
 
 Libraries:
 - google.colab
-- PIL (Python Imaging Library)
-- Any required libraries (numpy, matplotlib, etc.)
-
+- Open CV2(Python Imaging Library)
+- Any required libraries (numpy)
 
 Setup Instructions
 
@@ -30,3 +29,5 @@ Setup Instructions
    - Check the output of each cell.
    - Compare with expected outcomes.
 
+
+Note: For the fourth function in the colab file I wasn't able to get a video to run. My code is still written. 
